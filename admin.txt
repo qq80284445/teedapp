@@ -19,10 +19,10 @@
 </ADMIN20000>
 
 <ADMIN40000>
-100001={agent="https://gitee.com/ysmptt/30000/raw/master/agent.txt"};
-100002={feedback="https://gitee.com/ysmptt/30000/raw/master/feedback.txt"};
-100003={key="https://gitee.com/ysmptt/30000/raw/master/key.txt"};
-100004={jxapi="https://gitee.com/ysmptt/30000/raw/master/jxapi.txt"};
+100001={agent="https://cdn.jsdelivr.net/gh/qq80284445/teedapp/agent.txt"};
+100002={feedback="https://cdn.jsdelivr.net/gh/qq80284445/teedapp/feedback.txt"};
+100003={key="https://cdn.jsdelivr.net/gh/qq80284445/teedapp/key.txt"};
+100004={jxapi="https://cdn.jsdelivr.net/gh/qq80284445/teedapp/jxapi.txt"};
 400000={@UserName="MM10000",@RechargeApi="http://w.eydata.net/738517c051226a20"};
 </ADMIN40000>
 
